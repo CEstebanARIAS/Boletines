@@ -49,6 +49,24 @@ a{
     align-items: center;
     justify-content: center;
 }
+.redSocial{
+    position:absolute;
+    top: 30em;
+    right: 3em;
+}
+.button-face{
+    height: 40px;
+    width: 100px;
+    background-color: #7e1e7b;
+    border-radius: 8%;
+    box-shadow: 1px 2px 1px 1px #f346f3;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(248, 143, 72);
+    font-weight: bold;
+}
 .point{
     position: absolute;
     top: 30em;
@@ -59,7 +77,6 @@ a{
     width: 100px;
     background-color: #7e1e7b;
     border-radius: 8%;
-    display: inline-block;
     box-shadow: 1px 2px 1px 1px #f346f3;
     cursor: pointer;
     display: flex;
