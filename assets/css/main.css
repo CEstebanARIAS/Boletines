@@ -114,14 +114,6 @@ a{
      padding-bottom: 1em;
      font-size: 2em;
  }
- .position{
-     background-color: #F7C6E7;
-     color: rgb(192, 117, 226);
-     padding: 10px;
-     border-radius: 4em;
-     margin-right: 0.5em;
- }
-
  .image{
      float: left;
      margin-right: 1em;
